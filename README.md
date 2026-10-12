@@ -7,6 +7,9 @@ Este repositorio contiene una colección de ejercicios prácticos desarrollados 
 - **`aprendiendoaimprimir/`**: Ejercicios introductorios sobre salida por consola e impresión de datos.
 - **`Declarar_Variables_Y_Concatenar/`**: Uso de variables, tipos de datos primitivos y concatenación de cadenas.
 - **`Definir_Una_Clase/`**: Definición de clases, instanciación de objetos y prueba de métodos (`Persona`, `PruebaPersona`).
+- **`Arreglos_de_objetos/`**: Creación y manipulación de arreglos de objetos (`Animal`, `Persona`).
+- **`Metodos_de_acceso/`**: Encapsulamiento, atributos privados, constructores y métodos de acceso (`DatosBancarios`).
+- **`Inventario_de_Videojuegos/`**: Gestión de un arreglo de objetos para representar un inventario de videojuegos (`Videojuego`).
 
 ## 🛠️ Requisitos
 - **JDK 17** o superior.
